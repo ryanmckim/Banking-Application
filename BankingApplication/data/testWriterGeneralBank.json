@@ -1,0 +1,14 @@
+{"customers": [
+    {
+        "phoneNumber": "0000000000",
+        "balance": 0,
+        "name": "Bob",
+        "accountNumber": 1111111
+    },
+    {
+        "phoneNumber": "1111111111",
+        "balance": 0,
+        "name": "Lee",
+        "accountNumber": 2222222
+    }
+]}
